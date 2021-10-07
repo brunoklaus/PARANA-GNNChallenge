@@ -1,5 +1,6 @@
 torch_geometric_temporal==0.40
 tensorflow==2.6.0
+tensorboard==2.4.0
 pandas==1.2.4
 torch_geometric==1.7.0
 networkx==2.5.1
