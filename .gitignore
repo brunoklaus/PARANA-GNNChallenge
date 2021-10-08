@@ -1,6 +1,7 @@
 #Remove dataset folder
 dataset/*
 runs/*
+model/*
 
 
 # Byte-compiled / optimized / DLL files
