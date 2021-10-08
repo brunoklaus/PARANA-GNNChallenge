@@ -1,6 +1,6 @@
 #Remove dataset folder
-./dataset/*
-./runs/*
+dataset/*
+runs/*
 
 
 # Byte-compiled / optimized / DLL files
