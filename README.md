@@ -1,5 +1,10 @@
 <h1> PARANA-GNNChallenge: 1st place solution of Graph Neural Networking Challenge 2021 </h1>
 
+<h3>Team:</h3> PaRaNA (<b>Pa</b>ttern <b>R</b>ecognition <b>a</b>nd <b>N</b>etwork <b>A</b>nalysis) <br/>
+--> This is the PaRaNA research group of the Institute of Science and Technology of the <b>Federal University of São Paulo</b>, led by Dr. Lilian Berton.
+
+<h3>Members:</h3> Bruno Klaus de Aquino Afonso </h2><br/>
+--> A solo effort, it was pretty useful as I needed some more experience with GNN implementation for my PhD. 
 
 <h2> This repository includes </h2>
 
